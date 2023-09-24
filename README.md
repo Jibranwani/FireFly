@@ -4,6 +4,8 @@ FireFly is a security application that uses a combination of simple yet strategi
 
 # Installation
 After Cloning, run the following commands:
+
+
 $ sudo python3 setup.py
 $ sudo python3 FireFly.py
 
