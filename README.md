@@ -9,4 +9,7 @@ $ sudo python3 setup.py
 
 
 $ sudo python3 FireFly.py
-
+#Team
+1. Jibran Gulzar
+2. U. Akhil Chowdary
+3. Sagar Sharma
